@@ -38,6 +38,20 @@
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
+
+        .profile-picture-container {
+            overflow: hidden;
+            border-radius: 50%;
+            width: 150px; /* Adjust the width and height as needed */
+            height: 150px;
+            margin-right: 20px;
+        }
+
+        .profile-picture {
+            width: 100%;
+            height: auto;
+            border-radius: 50%;
+        }
     </style>
 </head>
 <body>
@@ -56,6 +70,9 @@
 -->
     <div class="container" id="about-me">
         <h2>About Me</h2>
+        <div class="profile-picture-container">
+            <img src="my-profile-picture.jpg" alt="KukHwa" class="profile-picture">
+        </div>
         <p>Hello! I'm KukHwa, a seasoned data analyst specializing in Business Intelligence solutions. My expertise covers data engineering, including ETL processes, database management, reporting, and data science, such as predictive modeling and statistical analysis of user behavior. Throughout my career, I've explored streaming podcast data analytics, and most recently, I provided insights into gaming services data. I leverage my skills not only to uncover meaningful patterns but also use data visualization effectively to communicate these findings, making complex insights accessible to a wider audience.</p>
     </div>
 
