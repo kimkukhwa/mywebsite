@@ -2,7 +2,7 @@
 
 ## Introduction
 ----------------
-In this project, I focused on developing key skills for website creation using Git, GitHub, and ChatGPT. Specifically, I covered essential commands and features of Git/GitHub, emphasizing their application in utilizing Git Pages for free website hosting.
+In this project, I brushed up on essential Git commands and explored basic GitHub features. I then used ChatGPT to help me create a personal blog, showcasing how to use Git Pages for free website hosting.
 
 ## Summary
 ----------------
