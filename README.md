@@ -4,7 +4,7 @@ In this project, I brushed up on essential Git commands and explored basic GitHu
 
 ## Summary
 ----------------
-My website hosted by GitHub Pages: https://kimkukhwa.github.io/mywebsite
+This repository hosts a technical portfolio: https://kimkukhwa.github.io/mywebsite
 
 ![Git   GitHub Review (2)](https://github.com/kimkukhwa/mywebsite/assets/64974464/3245fb5c-f035-4549-91bc-9c0045fce0e4)
 
