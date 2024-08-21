@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello there! 👋 I'm a BI Developer/Data Analyst with extensive experience in navigating the full-stack environment, streamlining business operations from ETL to statistical analyses. I specialize in crafting automated solutions that fuel growth and refine business processes. What sets me apart? I'm not just tech-savvy; I'm also great at breaking down complex technical jargon for a diverse audience. Right now, my passion lies in exploring AI and Machine Learning to take data-driven decision-making to the next level. Exciting times ahead! 🚀✨
+Hello! 👋 I'm a BI Developer and Data Analyst with extensive experience in the full-stack environment, streamlining business operations from ETL processes to statistical analysis. I specialize in crafting automated solutions that drive growth and optimize business processes. What sets me apart? I'm not just tech-savvy; I excel at translating complex technical concepts into clear, accessible language for diverse audiences. As a lifelong learner, I am always refining my skills and expanding my horizons. Currently, I'm passionate about exploring AI and Machine Learning to elevate data-driven decision-making. Exciting times ahead!🚀✨
 
 ## My Expertise
 
